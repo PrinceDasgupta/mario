@@ -1,0 +1,33 @@
+.prince{
+    width:100%;
+    text-align: left;
+}
+.button{
+    float: right;
+border:1px solid cyan;
+}
+h2{
+    display: inline;
+}
+h4{
+    background-color: blue;
+    line-height: 3;
+    margin:0px;
+    color:white;
+    bottom:0px;
+    position:fixed;
+    width:100%;
+}
+.instruction_image{
+    display:inline-block;
+    width: 70%;
+}
+.modal-dialog{
+    width:80%;
+}
+video{
+    background-image: url('game_console.png');
+    background-size:cover;
+    background-position:center;
+    padding: 30px;
+}
